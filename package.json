@@ -1,0 +1,36 @@
+{
+  "name": "react-native-qrimage-decoder",
+  "version": "1.0.0",
+  "description": "QR image decoder for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:watanabeyu/react-native-qrimage-decoder.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "qr"
+  ],
+  "author": "Yu Watanabe <fight.ippatu5648@gmail.com> (https://github.com/watanabeyu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watanabeyu/react-native-qrimage-decoder/issues"
+  },
+  "homepage": "https://github.com/watanabeyu/react-native-qrimage-decoder",
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "buffer": "^5.1.0"
+  }
+}

@@ -1,0 +1,9 @@
+.DS_Store
+
+.npmignore
+.expo
+node_modules
+npm-debug.log
+
+.vscode
+jsconfig.json
