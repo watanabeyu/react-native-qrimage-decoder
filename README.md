@@ -22,7 +22,7 @@ import {
 } from 'react-native';
 import { ImagePicker, Constants, FileSystem } from 'expo';
 
-import QRdecoder from 'expo-qrdecoder';
+import QRdecoder from 'react-native-qrimage-decoder';
 
 const styles = StyleSheet.create({
   container: {
