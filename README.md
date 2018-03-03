@@ -9,9 +9,6 @@ I will response as soon as possible not require Expo on Android.
 npm install react-native-qrimage-decoder --save
 ```
 
-## Demo
-![demo.gif](extras/demo.gif)
-
 ## Usage
 ```js
 import React from 'react';
@@ -25,7 +22,7 @@ import {
 } from 'react-native';
 import { ImagePicker, Constants, FileSystem } from 'expo';
 
-import QRdecoder from 'expo-qrdecoder';
+import QRdecoder from 'react-native-qrimage-decoder';
 
 const styles = StyleSheet.create({
   container: {

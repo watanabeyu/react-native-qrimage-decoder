@@ -1,6 +1,6 @@
 {
   "name": "react-native-qrimage-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QR image decoder for React Native",
   "main": "index.js",
   "scripts": {

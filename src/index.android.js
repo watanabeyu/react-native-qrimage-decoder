@@ -57,7 +57,7 @@ export default class QRdecoder extends React.Component {
 
   render() {
     return (
-      <View style={{ flex: 1 }}>
+      <View style={{ display: 'none' }}>
         <WebView
           ref={(ref) => { this.webView = ref; }}
           source={{ html: htmlString, baseUrl: FileSystem.documentDirectory }}
